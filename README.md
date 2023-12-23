@@ -1,8 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi 👋, I'm Muyun Ji</h1>
-<h3 align="center">A passionate Cross-Industry Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyun2023&label=Profile%20views&color=0e75b6&style=flat" alt="muyun2023" /> </p>
-
+<h3 align="center">A passionate Cross-Industry Software Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muyun2023" alt="muyun2023" /></a> </p>
 - 🔭 I'm currently pursuing Master's degree at Northeastern University_Seattle Campus [https://www.northeastern.edu/](https://www.northeastern.edu/)
 - 🌱 I'm a dedicated Software Engineer with a passion for Backend Development and Artificial Intelligence
