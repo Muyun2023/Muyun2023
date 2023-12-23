@@ -30,8 +30,13 @@
 <h3 align="left">Databases</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muyun2023&show_icons=true&locale=en&layout=compact" alt="muyun2023" /></p>
+### My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> 
+<div align="center">
+  
+|<img src="https://github-readme-stats.vercel.app/api?username=muyun2023&show_icons=true&theme=gotham&hide=issues&count_private=true" width = 500px />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 330px />| 
+| ------------- | ------------- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muyun2023&show_icons=true&locale=en" alt="muyun2023" /></p>
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&theme=gotham" width = 500px />|<img src="./developer.gif" width = 330px /> |
+| ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&" alt="muyun2023" /></p>
+</div>
