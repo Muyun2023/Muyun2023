@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/muyun-ji-543256263/](https://www.linkedin.com/in/muyun-ji-543256263/)
 - 👨‍💻 All of my projects are available at [https://github.com/Muyun2023/Muyun2023](https://github.com/Muyun2023/Muyun2023)
 - 📫 How to reach me :  ji.mu@northeastern.edu
-- ⚡ Fun fact :  **I love all Sports with Water**
+- ⚡ Fun fact :  I love all Sports with Water
 
 <h3 align="left">Connect with me on 👇</h3>
 <p align="left">
