@@ -4,14 +4,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muyun2023" alt="muyun2023" /></a> </p>
 
 ### I'm a passionate Cross-Industry Software Developer
-- 🔭 I'm currently pursuing Master's degree at Northeastern University_Seattle Campus [https://www.northeastern.edu/](https://www.northeastern.edu/)
-- 🌱 I'm a dedicated Software Engineer with a passion for Backend Development and Artificial Intelligence
-- 👯 I'm a Expert of Sales, Training and Management in Apparel Retail include Luxury, Fashion, and Travel retail
+- 🔭 I'm currently pursuing ***Master's degree at Northeastern University_Seattle Campus*** [https://www.northeastern.edu/](https://www.northeastern.edu/)
+- 🌱 I'm a ***dedicated Software Engineer*** with a passion for Backend Development and Artificial Intelligence
+- 👯 I'm a ***Expert of Sales, Training and Management in Apparel Retail*** include Luxury, Fashion, and Travel retail
 - 🤔 I'm looking to have own business in future and engage in technology communication and charitable education
 - 📄 Know about my experiences [https://www.linkedin.com/in/muyun-ji-543256263/](https://www.linkedin.com/in/muyun-ji-543256263/)
 - 👨‍💻 All of my projects are available at [https://github.com/Muyun2023/Muyun2023](https://github.com/Muyun2023/Muyun2023)
 - 📫 How to reach me :  ji.mu@northeastern.edu
-- ⚡ Fun fact :  I love all Sports with Water
+- ⚡ Fun fact :  ***I love all Sports with Water***
 
 <h3 align="left">Connect with me on 👇</h3>
 <p align="left">
