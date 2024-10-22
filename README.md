@@ -5,12 +5,12 @@
 
 ### I'm a passionate Cross-Industry Software Developer
 - 🔭 I'm pursuing ***Master's degree at Northeastern University_Seattle Campus*** [https://www.northeastern.edu/](https://www.northeastern.edu/)
-- 🌱 I'm a ***dedicated Software Engineer*** with a passion for Backend Development and Artificial Intelligence
-- 👯 I'm a ***Expert of Sales, Training and Management in Apparel Retail*** include Luxury, Fashion, and Travel retail
+- 🌱 I'm a ***dedicated Software Engineer*** with a passion for Backend/Fullstack Development and Artificial Intelligence
+- 👯 I'm a ***Expert of Sales, Operations and Training in Apparel Retail*** include Luxury, Fashion, and Travel retail
 - 🤔 I'm looking to have own business in future and engage in technology communication and charitable education
 - 📄 Know about my experiences [https://www.linkedin.com/in/muyun-ji-543256263/](https://www.linkedin.com/in/muyun-ji-543256263/)
 - 👨‍💻 All of my projects are available at [https://github.com/Muyun2023/Muyun2023](https://github.com/Muyun2023/Muyun2023)
-- 📫 How to reach me :  ji.mu@northeastern.edu
+- 📫 How to reach me :  muyunji2023@gmail.com    
 - ⚡ Fun fact :  ***I love all Sports with Water***
 
 <h3 align="left">Connect with me on 👇</h3>
