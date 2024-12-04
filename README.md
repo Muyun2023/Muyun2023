@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyun2023&label=Profile%20views&color=0e75b6&style=flat" alt="muyun2023" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muyun2023" alt="muyun2023" /></a> </p>
 
-- 🔭 I'm pursuing ***Master's degree at Northeastern University_Seattle Campus*** [https://www.northeastern.edu/](https://www.northeastern.edu/)
-- 🌱 I'm ***dedicated Software Engineer*** with a passion for Backend/Fullstack Development
+- 🔭 I'm ***pursuing Master's degree at Northeastern University_Seattle Campus*** [https://www.northeastern.edu/](https://www.northeastern.edu/)
+- 🌱 I'm ***Dedicated Software Engineer with a passion for Backend/Fullstack Development*** 
 - 👯 I'm ***Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
 - 🤔 I'm looking to have own business in future and engage in technology communication and charitable education
 - 📄 Know about my experiences [https://www.linkedin.com/in/muyun-ji-543256263/](https://www.linkedin.com/in/muyun-ji-543256263/)
@@ -29,7 +29,7 @@
 <h3 align="left">Databases</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-### My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> 
+### My GitHub Stats
 <div align="center">
   
 |<img src="https://github-readme-stats.vercel.app/api?username=muyun2023&show_icons=true&theme=gotham&hide=issues&count_private=true" width = 500px />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 300px />| 
