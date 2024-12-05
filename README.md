@@ -32,11 +32,10 @@
 ### My GitHub Stats
 <div align="center">
   
-|<img src="https://github-readme-stats.vercel.app/api?username=muyun2023&show_icons=true&theme=gotham&hide=issues&count_private=true" width = 500px />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 300px />| 
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 400px />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&theme=gotham" width = 420px />| 
 | ------------- | ------------- |
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&theme=gotham" width = 800px />|[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muyun2023&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/Muyun2023)|
-| ------------- | ------------- |
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muyun2023&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/Muyun2023)
 
 
 </div>
