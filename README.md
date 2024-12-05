@@ -32,7 +32,7 @@
 ### My GitHub Stats
 <div align="center">
   
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 390px />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&theme=gotham" width = 420px />| 
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyun2023&layout=compact&theme=gotham" width = 380px />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muyun2023&theme=gotham" width = 420px />| 
 | ------------- | ------------- |
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muyun2023&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/Muyun2023)
