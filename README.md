@@ -5,7 +5,7 @@
 
 - 🌱 I'm ***Dedicated Software Engineer with a passion for Backend/Fullstack Development*** 
 - 👯 I'm ***5+ years Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
-- 📫 How to reach me :  muyunji2023@gmail.com    
+- 📫 Reach me :  muyunji2023@gmail.com    
 - ⚡ Fun fact :  ***I love all Sports with Water, I have two Cats***
 
 <h3 align="left">Connect with me on 👇</h3>
