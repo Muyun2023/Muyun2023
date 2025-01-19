@@ -3,12 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyun2023&label=Profile%20views&color=0e75b6&style=flat" alt="muyun2023" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muyun2023" alt="muyun2023" /></a> </p>
 
-- 🔭 I'm ***pursuing Master's degree at Northeastern University_Seattle Campus*** [https://www.northeastern.edu/](https://www.northeastern.edu/)
 - 🌱 I'm ***Dedicated Software Engineer with a passion for Backend/Fullstack Development*** 
-- 👯 I'm ***Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
-- 🤔 I'm looking to have own business in future and engage in technology communication and charitable education
-- 📄 Know about my experiences [https://www.linkedin.com/in/muyun-ji-543256263/](https://www.linkedin.com/in/muyun-ji-543256263/)
-- 👨‍💻 All of my projects are available at [https://github.com/Muyun2023/Muyun2023](https://github.com/Muyun2023/Muyun2023)
+- 👯 I'have ***5+ years Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
 - 📫 How to reach me :  muyunji2023@gmail.com    
 - ⚡ Fun fact :  ***I love all Sports with Water***
 
