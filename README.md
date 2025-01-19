@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muyun2023" alt="muyun2023" /></a> </p>
 
 - 🌱 I'm ***Dedicated Software Engineer with a passion for Backend/Fullstack Development*** 
-- 👯 I'have ***5+ years Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
+- 👯 I'm ***5+ years Expertise in Sale and Operation in Luxury, Fashion, and Travel Retai***
 - 📫 How to reach me :  muyunji2023@gmail.com    
 - ⚡ Fun fact :  ***I love all Sports with Water***
 
